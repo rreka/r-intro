@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+# Data Skills for Science
+
+## Introduction to R via Data Wrangling
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/rreka/r-intro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
