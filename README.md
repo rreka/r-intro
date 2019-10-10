@@ -5,12 +5,11 @@ Welcome to the website for the workshop. Here you will find the files and code n
 
 
 ### R script file
-Download the [R script file](#) that we'll be working from for this workshop.
+Download the [R script file](http://rogerreka.info/r-intro/code-handout-intro.R) that we'll be working from for this workshop.
 
 
-### Demo dataset
-We'll be using a [real world dataset](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459) of life-history, population, and ecological data for our workshop today. Here is the URL for a CSV file of the data: 
-`https://ndownloader.figshare.com/files/2292169`
+
+
 
 
 ### Credit and licensing
